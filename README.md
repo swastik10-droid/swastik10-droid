@@ -121,9 +121,17 @@ Practice implementations of important DSA concepts using **C and Python**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swastik10-droid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<a href="https://github.com/swastik10-droid">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik10-droid&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=swastik10-droid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+</a>
+
+<a href="https://github.com/swastik10-droid">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=swastik10-droid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
+
+</a>
 
 </div>
 
@@ -134,8 +142,6 @@ Practice implementations of important DSA concepts using **C and Python**.
 <img src="https://streak-stats.demolab.com/?user=swastik10-droid&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 <!-- ======================= GOALS ======================= -->
 
